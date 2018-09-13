@@ -1,4 +1,5 @@
 #include "ipmac.h"
+#include <stdio.h>
 
 int main (int argc, const char *argv[]) {
 	char ipmac[MAX_HW_INFO_LEN]={0};
