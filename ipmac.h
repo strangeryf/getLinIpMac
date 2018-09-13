@@ -6,8 +6,6 @@ extern "C"
 {
 #endif
 
-
-#include <stdio.h>
 #include <ifaddrs.h>
 #include <string.h> 
 #include <arpa/inet.h>
