@@ -1,5 +1,4 @@
 #include "ipmac.h"
-#include <stdio.h>
 
 void getIpMac(char *ipmac) {
 	struct ifaddrs *ifAddrStruct = NULL;
