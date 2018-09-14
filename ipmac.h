@@ -1,5 +1,5 @@
-#ifndef cJSON__h
-#define cJSON__h
+#ifndef ipmac__h
+#define ipmac__h
 
 #ifdef __cplusplus
 extern "C"
